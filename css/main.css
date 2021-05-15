@@ -380,6 +380,12 @@ header .badges .badge {
   opacity: 0;
 }
 
+#test_kakao {
+  position: absolute;
+  width: 336px;
+  height: 448px;
+}
+
 .notice {
 
 }
